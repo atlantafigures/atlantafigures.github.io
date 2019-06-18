@@ -1,4 +1,12 @@
 {
+  "version": "1.0",
+  "description": "A website for the Atlanta Military Figure Society",
+  "author": "Sabrina Ferguson",
+  "scripts": {
+    "dev": "vuepress dev app",
+    "build": "vuepress build app",
+    "eject": "vuepress eject"
+  },
   "devDependencies": {
     "vuepress": "^1.0.1"
   }
